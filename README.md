@@ -20,7 +20,7 @@
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <img src="bruce.jpeg" alt="Bruce 头像" width="900" height="450">
+                <img src="bruce.jpeg" alt="Bruce 头像" width="900" height="900">
             </td>
             <td>
                 Hiiiiii,I'm Bruce Tian, in Beijing.I'm a Student in THHS.
