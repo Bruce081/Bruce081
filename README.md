@@ -10,7 +10,7 @@
   <a href="https://github.com/Bruce081" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-Bruce081-%2312100E.svg?logo=Github&logoColor=white" />
   </a> 
-  <a href="https://wakatime.com/@Bruce081">
+  <a href="https://wakatime.com/@Bruce781">
     <img src="https://wakatime.com/badge/user/ee8bea9a-65fb-4a9a-9026-38edeeca9014.svg" alt="Total time coded since Dec 31 2021" />
   </a>
 </p>
